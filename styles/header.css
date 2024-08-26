@@ -1,0 +1,49 @@
+.cabecalho__menu {
+    display: flex;
+    background-color: var(--branco);
+    justify-content: space-between;
+    position: relative;
+    padding: 0 1em;
+}
+
+.logo {
+    padding: 1em;
+}
+
+.container__logo {
+    display: flex;
+    align-items: center;
+}
+
+.container__menu {
+    flex-grow: 1;
+    box-sizing: border-box;
+    padding-left: 4em;
+}
+
+.opcoes,
+.login__botoes {
+    display: flex;
+    gap: 32px;
+}
+
+.opcoes__link {
+    text-decoration: none;
+    color: var(--cor-texto);
+}
+
+.opcoes__item {
+    list-style-type: none;
+    padding: 0.5em 0.2em;
+}
+
+.botao__cadastro {
+    background: var(--cor-primaria);
+    padding: 0.5em 1em;
+    border-radius: 8px;
+
+}
+
+.cadastro {
+    color: var(--branco);
+}
