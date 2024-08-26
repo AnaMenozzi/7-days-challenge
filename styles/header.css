@@ -29,7 +29,7 @@
 
 .opcoes__link {
     text-decoration: none;
-    color: var(--cor-texto);
+    color: var(--cor-titulo);
 }
 
 .opcoes__item {
