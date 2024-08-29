@@ -1,0 +1,27 @@
+.vagas{
+    width: 100%;
+    text-align: center;
+    padding-block: 6em;
+}
+
+.subtitulo-m {
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.titulo-ss {
+    font-size: 14px;
+    color: var(--cor-primaria);
+}
+
+.fundo {
+    background-color: rgba(142, 36, 36, 0.05);
+    padding: 4px 12px;
+    width: 125px;
+    margin-inline: auto;
+    border-radius: 16px;
+}
+
+.vagas__imagem {
+    width: 100%;
+}
