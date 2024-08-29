@@ -1,0 +1,26 @@
+.metricas-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.metricas-box {
+    width: 25%;
+    margin-inline: 2em;
+}
+
+.metricas__numero {
+    font-size: 60px;
+    font-weight: 600;
+    color: var(--cor-primaria);
+}
+
+.subtitulo-s {
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--cor-titulo);
+}
+
+.texto-s {
+    color: var(--cor-texto);
+}
