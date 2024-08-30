@@ -1,0 +1,37 @@
+.secao-vaga {
+    width: 768px;
+    margin-inline: auto;
+    margin-bottom: 4em;
+}
+
+.vaga {
+    border: 1px solid var(--cor-box);
+    border-radius: 16px;
+    margin-inline: auto;
+    margin-bottom: 24px;
+    padding: 24px;
+}
+
+.vaga__nome {
+    font-size: 20px;
+    font-weight: 500;
+    color: var(--cor-titulo);
+    margin-inline: auto;
+    margin-bottom: 24px;
+}
+
+.titulo-vaga {
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--cor-titulo);
+}
+
+.informacoes {
+    margin-top: 32px;
+    font-weight: 500;
+    color: var(--cor-texto);
+}
+
+.margin-right-s {
+    margin-right: 24px;
+}

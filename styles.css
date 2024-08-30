@@ -2,7 +2,9 @@
 @import url("styles/header.css");
 @import url("styles/sobre.css");
 @import url("styles/metricas.css");
-@import url("styles/vagas.css");
+@import url("styles/vagas-apres.css");
+@import url("styles/vagas-disp.css");
+
 
 :root {
     --fonte-principal: "Inter", sans-serif;
@@ -11,6 +13,7 @@
     --cor-titulo: #101828;
     --cor-texto: #667085;
     --cor-primaria: #8E2424;
+    --cor-box: #EAECF0;
 }
 
 body {
@@ -23,3 +26,27 @@ body {
 .container {
     margin-inline: 32px;
 }
+
+/*
+    titulo-s
+    font-weight: 600;
+    color: var(--cor-primaria);
+
+    subtitulo-s
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--cor-titulo);
+
+    .texto-s
+    color: var(--cor-texto);
+
+    .subtitulo-m
+    font-size: 36px;
+    font-weight: 600;
+
+    texto-m
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--cor-texto);
+    padding-inline: 10em;
+*/
