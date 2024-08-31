@@ -5,6 +5,7 @@
 @import url("styles/vagas-apres.css");
 @import url("styles/vagas-disp.css");
 @import url("styles/colaboradores.css");
+@import url("styles/rodape.css");
 
 
 :root {
@@ -15,6 +16,7 @@
     --cor-texto: #667085;
     --cor-primaria: #8E2424;
     --cor-box: #EAECF0;
+    --cor-fundo: #F9FAFB;
 }
 
 body {
@@ -22,6 +24,7 @@ body {
     font-family: var(--fonte-principal);
     font-size: 16px;
     font-weight: 400;
+    margin: 0px;
 }
 
 .container {

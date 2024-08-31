@@ -1,0 +1,45 @@
+.rodape {
+    background-color: var(--cor-fundo);
+    text-align: center;
+    padding: 32px 0;
+    margin-top: 96px;
+    width: 100%;
+}
+
+.rodape__titulo {
+    line-height: 44px;
+}
+
+.rodape__texto {
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--cor-texto);
+    line-height: 30px;
+    padding-bottom: 20px;
+}
+
+.rodape__pesquisa {
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+.rodape__pesquisa-campo {
+    border: 1px solid var(--cor-box);
+    border-radius: 8px;
+    padding: 12px 14px;
+    color: var(--cor-texto);
+    width: 360px;
+}
+
+.rodape__pesquisa-botao {
+    background: var(--cor-primaria);
+    padding: 10px 20px;
+    border-radius: 8px;
+    color: var(--branco);
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.rodape__direitos {
+    color: #98A2B3;
+}
