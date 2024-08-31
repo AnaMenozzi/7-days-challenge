@@ -7,10 +7,12 @@
 .subtitulo-m {
     font-size: 36px;
     font-weight: 600;
+    color: var(--cor-titulo);
 }
 
 .titulo-ss {
     font-size: 14px;
+    font-weight: 500;
     color: var(--cor-primaria);
 }
 

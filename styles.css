@@ -4,6 +4,7 @@
 @import url("styles/metricas.css");
 @import url("styles/vagas-apres.css");
 @import url("styles/vagas-disp.css");
+@import url("styles/colaboradores.css");
 
 
 :root {
@@ -27,9 +28,15 @@ body {
     margin-inline: 32px;
 }
 
+
 /*
     titulo-s
     font-weight: 600;
+    color: var(--cor-primaria);
+
+    titulo-ss
+    font-size: 14px;
+    font-weight: 500;
     color: var(--cor-primaria);
 
     subtitulo-s
@@ -43,6 +50,7 @@ body {
     .subtitulo-m
     font-size: 36px;
     font-weight: 600;
+    color: var(--cor-titulo);
 
     texto-m
     font-size: 20px;
