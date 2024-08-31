@@ -28,7 +28,8 @@ body {
 }
 
 .container {
-    margin-inline: 32px;
+    margin-inline: auto;
+    max-width: 1200px;
 }
 
 
