@@ -1,7 +1,7 @@
 .vagas{
     width: 100%;
     text-align: center;
-    padding-block: 6em;
+    padding-block: 2em;
 }
 
 .subtitulo-m {
@@ -24,6 +24,11 @@
     border-radius: 16px;
 }
 
+.titulo__vagas {
+    margin-bottom: 20px;
+}
+
 .vagas__imagem {
     width: 100%;
+    margin-top: 40px;
 }

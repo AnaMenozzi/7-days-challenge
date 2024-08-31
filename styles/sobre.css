@@ -1,18 +1,21 @@
 .sobre {
     width: 100%;
     text-align: center;
-    padding-block: 6em;
+    padding-block: 2em;
 }
 
 .titulo-s {
     font-weight: 600;
     color: var(--cor-primaria);
+    margin-bottom: 8px;
+    line-height: 24px;
 }
 
 .sobre__subtitulo {
     font-size: 48px;
     font-weight: 600;
     color: var(--cor-titulo);
+    margin-bottom: 32px;
 }
 
 .texto-m {

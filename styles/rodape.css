@@ -29,6 +29,7 @@
     padding: 12px 14px;
     color: var(--cor-texto);
     width: 360px;
+    margin-right: 16px;
 }
 
 .rodape__pesquisa-botao {
